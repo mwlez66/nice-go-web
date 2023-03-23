@@ -3,3 +3,5 @@
 - nice
 - fast
 - safe
+
+maybe integrate Vue
